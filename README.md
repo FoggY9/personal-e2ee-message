@@ -4,6 +4,6 @@ Stack:
 Pc: Next.js typescript postgress electron 
 note: later shift to tauri for mobile support
 
+<img width="1374" height="774" alt="image" src="https://github.com/user-attachments/assets/f6a6e9fe-0b9b-413d-9202-347c4905c6f5" />
 
-<img width="1368" height="780" alt="image" src="https://github.com/user-attachments/assets/3e76d30f-a02f-483d-9011-45ea23364f8b" />
 
